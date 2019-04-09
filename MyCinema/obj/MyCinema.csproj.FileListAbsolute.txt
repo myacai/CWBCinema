@@ -1,0 +1,9 @@
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+E:\WinformCode\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+E:\WinformCode\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\ResolveAssemblyReference.cache
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\MyCinema.AddMovieForm.resources
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\MyCinema.MainForm.resources
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+E:\WinformCode\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache

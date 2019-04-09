@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShowList>
+  <Movie>
+    <Name>海上钢琴师</Name>
+    <Poster>haishang.jpg</Poster>
+    <Director>周怀</Director>
+    <Actor>周怀</Actor>
+    <Type>Action</Type>
+    <Price>60</Price>
+    <Schedule>
+      <Item>8-00 9-45</Item>
+      <Item>10-00 11-45</Item>
+    </Schedule>
+  </Movie>
+  <Movie>
+    <Name>火星救援</Name>
+    <Poster>bone.jpg</Poster>
+    <Director>宁浩</Director>
+    <Actor>郭涛</Actor>
+    <Type>Comedy</Type>
+    <Price>60</Price>
+    <Schedule>
+      <Item>12-00 13-45</Item>
+      <Item>14-00 15-45</Item>
+    </Schedule>
+  </Movie>
+  <Movie>
+    <Name>SuperMan</Name>
+    <Poster>spiderman3.jpg</Poster>
+    <Director>萨姆·莱米</Director>
+    <Actor>托贝·马奎尔</Actor>
+    <Type>Action</Type>
+    <Price>60</Price>
+    <Schedule>
+      <Item>16-00 17-45</Item>
+      <Item>18-00 19-45</Item>
+    </Schedule>
+  </Movie>
+  <Movie>
+    <Name>生化危机110</Name>
+    <Poster>生化危机1.jpg</Poster>
+    <Director>保罗·安德森</Director>
+    <Actor>米拉·乔沃维奇</Actor>
+    <Type>Comedy</Type>
+    <Price>80</Price>
+    <Schedule>
+      <Item>20-00 18-40</Item>
+      <Item>09-05 11-25</Item>
+    </Schedule>
+  </Movie>
+</ShowList>

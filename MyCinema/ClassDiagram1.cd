@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="宋体" Size="9" />
+  <Class Name="MyCinema.Cinema">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Cinema.cs</FileName>
+      <HashCode>AAAAgIAAAAAAAAAAAgAAAAIAAEAAAABgAAAAIAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.FreeTicket">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FreeTicket.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAQAAAAEAAAAAAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+    <InheritanceLine Type="MyCinema.Ticket" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="3.297" />
+        <Point X="2.5" Y="3.51" />
+        <Point X="1.938" Y="3.51" />
+        <Point X="1.938" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <Lollipop Position="0.244" />
+  </Class>
+  <Class Name="MyCinema.Movie">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Movie.cs</FileName>
+      <HashCode>AAQBABAEAQAQgAAAAIAAAAAACAAAEAgAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Schedule">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Schedule.cs</FileName>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.ScheduleItem">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ScheduleItem.cs</FileName>
+      <HashCode>AAABAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="MyCinema.Seat">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Seat.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAACACAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.StudentTicket">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StudentTicket.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAIEAAA=</HashCode>
+    </TypeIdentifier>
+    <InheritanceLine Type="MyCinema.Ticket" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="3.297" />
+        <Point X="2.5" Y="3.51" />
+        <Point X="4.375" Y="3.51" />
+        <Point X="4.375" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyCinema.Ticket">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Ticket.cs</FileName>
+      <HashCode>AAABAAAAAQAAAABAAAAAQAIAAAAAAAAABAAAAAQEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MyCinema.IPrintable" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IPrintable.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MyCinema.MovieType">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Movie.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAAAAAIAIAAAAAAAAAAAACAEAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
